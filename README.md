@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a software engineer with over 2.5 years of experience and a Computer Science BS from Universidad ORT Uruguay, I find my passion lies in collaborative team efforts and the tangible results that emerge from it.
+I’m a software engineer with Computer Science major from Universidad ORT Uruguay, I find my passion lies in collaborative team efforts and the tangible results that emerge from it.
 
 My expertise encompasses not only initiating projects from their conceptual stages but also seamlessly integrating them into complex solutions. I thrive in both the inception phase and the intricate process of bringing disparate components together to create comprehensive solutions.
 
